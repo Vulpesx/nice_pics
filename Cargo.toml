@@ -1,0 +1,11 @@
+[package]
+name = "nice_pics"
+version = "0.1.0"
+edition = "2021"
+about = "a png crate"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+anyhow = "*"
+clap = { version = "3.1.8" }
